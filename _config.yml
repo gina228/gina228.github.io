@@ -1,11 +1,11 @@
 # Site settings
 author: Gina Graci
-title: 
+title: Gina's Flatiron School Blog
 header-img: img/home-bg.png
 email: ginagraci92@gmail.com
 copyright_name: Gina Graci
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog detailing my labs
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gina228
