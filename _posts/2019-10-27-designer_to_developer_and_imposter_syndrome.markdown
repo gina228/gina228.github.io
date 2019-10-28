@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Designer to Developer...and Imposter Syndrome"
-date:       2019-10-28 01:44:17 +0000
+date:       2019-10-27 21:44:18 -0400
 permalink:  designer_to_developer_and_imposter_syndrome
 ---
 
@@ -26,9 +26,9 @@ Are my designs actually terrible and everyone is secretly mocking me for thinkin
 
 If I didn't know what Imposter Syndrom was before, I knew it at that point. I was told by my design mentor that everyone goes through it, beginner to advanced designers. He helped critique my projects and even helped me build a portfolio. So, if this is truly a thing that everyone feels at some point, why aren't designers more willing to tell you how you can make things better so you don't keep making the same mistakes. I don't even know what mistakes I was making!
 
-I guess it just made me sad. I felt betrayed by the design world. I spent a lot of time working on my projects and doing school while working full time just to have design professionals turn their back on one of their own who was trying to break into the field. 
+I guess it just made me sad. I felt betrayed by the design world. I spent a lot of time working on my projects and doing school work while working full time just to have design professionals turn their back on one of their own who was trying to break into the field. 
 
-Back to the original point of this blog post. I wanted to get into Software Engineering and Web Development because I felt that they would be good skills to have, even if I still wanted to be a designer. I felt it would make me more of a marketable job seeker. I love that coding is a very black and white thing. You either get it, or you don't. Your code either works or it doesn't. 
+Back to the original point of this blog post. I wanted to get into Software Engineering and Web Development BECAUSE of Imposter Syndrome. BECAUSE I felt that they would be good skills to have, even if I still wanted to be a designer. I felt it would make me more of a marketable job seeker. I love that coding is a very black and white skill. You either get it, or you don't. Your code either works or it doesn't. 
 
 All I know is I don't feel as hopeless about my life direction anymore. I love learning new life skills that will benefit me.  I'm excited for the future again and look forward to it.
 
